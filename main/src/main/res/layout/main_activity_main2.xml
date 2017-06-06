@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.yimeng.common.ultraviewpager.UltraViewPager
+        android:id="@+id/ultra_viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true" />
+
+    <Button
+        android:id="@+id/but"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:text="基本使用BaseActivity" />
+
+    <Button
+        android:id="@+id/toTestActivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/but"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:text="跳转到TestActivity界面" />
+
+    <Button
+        android:id="@+id/toRouterShopActivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/toTestActivity"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:text="跳转到Shop" />
+
+    <Button
+        android:id="@+id/toRouterSignActivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/toRouterShopActivity"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:text="跳转到Sign" />
+
+    <Button
+        android:id="@+id/toRouterCommunityActivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/toRouterSignActivity"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:text="跳转到Community" />
+    <Button
+        android:id="@+id/toRouterHttp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/toRouterCommunityActivity"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:text="Http跳转" />
+</RelativeLayout>

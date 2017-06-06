@@ -1,0 +1,13 @@
+<resources>
+    <style name="community_transparentFrameWindowStyle" parent="android:style/Theme.Dialog">
+        <item name="android:windowBackground">@drawable/community_photo_choose_bg</item>
+    </style>
+    <!-- Base application theme. -->
+    <style name="community_AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="community_main_menu_animstyle">
+        <item name="android:windowEnterAnimation">@anim/community_photo_dialog_in_anim</item>
+        <item name="android:windowExitAnimation">@anim/community_photo_dialog_out_anim</item>
+    </style>
+</resources>

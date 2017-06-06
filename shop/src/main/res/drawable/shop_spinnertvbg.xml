@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <stroke
+        android:width="1dp"
+        android:color="@color/shop_maintop" />
+
+    <gradient
+        android:centerColor="@color/shop_maintop"
+        android:startColor="@color/shop_maintop"
+        android:endColor="@color/shop_maintop" />
+
+    <corners
+        android:radius="3dp" />
+
+</shape>

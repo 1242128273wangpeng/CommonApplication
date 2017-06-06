@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\realproject\\newchangzhou\\NewChangZhou\\sign\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher_round.png",
+        "source": "D:\\realproject\\newchangzhou\\NewChangZhou\\sign\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\realproject\\newchangzhou\\NewChangZhou\\sign\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\realproject\\newchangzhou\\NewChangZhou\\sign\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\realproject\\newchangzhou\\NewChangZhou\\sign\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\search.png",
+        "source": "D:\\realproject\\newchangzhou\\NewChangZhou\\common\\build\\intermediates\\bundles\\default\\res\\mipmap-hdpi-v4\\search.png"
+    },
+    {
+        "merged": "D:\\realproject\\newchangzhou\\NewChangZhou\\sign\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\add_problem.png",
+        "source": "D:\\realproject\\newchangzhou\\NewChangZhou\\common\\build\\intermediates\\bundles\\default\\res\\mipmap-hdpi-v4\\add_problem.png"
+    },
+    {
+        "merged": "D:\\realproject\\newchangzhou\\NewChangZhou\\sign\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\back.png",
+        "source": "D:\\realproject\\newchangzhou\\NewChangZhou\\common\\build\\intermediates\\bundles\\default\\res\\mipmap-hdpi-v4\\back.png"
+    }
+]

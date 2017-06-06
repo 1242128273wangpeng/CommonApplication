@@ -1,0 +1,8 @@
+<resources>
+    <string name="community_app_name">Community</string>
+    <string name="community_mis_error_image_not_exist">图片文件不存在</string>
+    <string name="community_mis_msg_no_camera">相机不可用</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

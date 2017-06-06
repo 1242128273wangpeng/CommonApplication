@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\realproject\\newchangzhou\\NewChangZhou\\sign\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6b771e56aadbf50c7bd7563b3b4153a81628d9eb\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\realproject\\newchangzhou\\NewChangZhou\\sign\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6b771e56aadbf50c7bd7563b3b4153a81628d9eb\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\realproject\\newchangzhou\\NewChangZhou\\sign\\build\\intermediates\\res\\merged\\release\\anim\\bottom_exit_anim.xml",
+        "source": "D:\\realproject\\newchangzhou\\NewChangZhou\\common\\build\\intermediates\\bundles\\default\\res\\anim\\bottom_exit_anim.xml"
+    },
+    {
+        "merged": "D:\\realproject\\newchangzhou\\NewChangZhou\\sign\\build\\intermediates\\res\\merged\\release\\anim\\top_enter_anim.xml",
+        "source": "D:\\realproject\\newchangzhou\\NewChangZhou\\common\\build\\intermediates\\bundles\\default\\res\\anim\\top_enter_anim.xml"
+    },
+    {
+        "merged": "D:\\realproject\\newchangzhou\\NewChangZhou\\sign\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6b771e56aadbf50c7bd7563b3b4153a81628d9eb\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\realproject\\newchangzhou\\NewChangZhou\\sign\\build\\intermediates\\res\\merged\\release\\anim\\bottom_enter_anim.xml",
+        "source": "D:\\realproject\\newchangzhou\\NewChangZhou\\common\\build\\intermediates\\bundles\\default\\res\\anim\\bottom_enter_anim.xml"
+    },
+    {
+        "merged": "D:\\realproject\\newchangzhou\\NewChangZhou\\sign\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6b771e56aadbf50c7bd7563b3b4153a81628d9eb\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\realproject\\newchangzhou\\NewChangZhou\\sign\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6b771e56aadbf50c7bd7563b3b4153a81628d9eb\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\realproject\\newchangzhou\\NewChangZhou\\sign\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6b771e56aadbf50c7bd7563b3b4153a81628d9eb\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\realproject\\newchangzhou\\NewChangZhou\\sign\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6b771e56aadbf50c7bd7563b3b4153a81628d9eb\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\realproject\\newchangzhou\\NewChangZhou\\sign\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6b771e56aadbf50c7bd7563b3b4153a81628d9eb\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\realproject\\newchangzhou\\NewChangZhou\\sign\\build\\intermediates\\res\\merged\\release\\anim\\top_exit_anim.xml",
+        "source": "D:\\realproject\\newchangzhou\\NewChangZhou\\common\\build\\intermediates\\bundles\\default\\res\\anim\\top_exit_anim.xml"
+    },
+    {
+        "merged": "D:\\realproject\\newchangzhou\\NewChangZhou\\sign\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6b771e56aadbf50c7bd7563b3b4153a81628d9eb\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\realproject\\newchangzhou\\NewChangZhou\\sign\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6b771e56aadbf50c7bd7563b3b4153a81628d9eb\\output\\res\\anim\\abc_fade_in.xml"
+    }
+]

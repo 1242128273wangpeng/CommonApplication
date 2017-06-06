@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Common</string>
+    <string name="loading_desc">加载中...</string>
+    <string name="no_more_data">- 没有更多数据 -</string>
+    <string name="load_abnormal">- 加载异常，点击重试 -</string>
+    <string name="editor_sure">"完成"</string>
+    <string name="problem_title_add">"添加"</string>
+    <string name="back">"返回"</string>
+    <string name="title_net">"网络不给力，请检查网络设置。"</string>
+    <string name="all_image">全部图片</string>
+    <string name="selected_image">选中的图片</string>
+    <string name="selected_ok">确定 (%1$s/%2$s)</string>
+    <string name="no_image">没有相册图片</string>
+    <string name="selected">选中</string>
+    <string name="image_index">%1$s/%2$s</string>
+    <string name="grant_permission_success">授权成功，正在读取相册</string>
+    <string name="grant_permission_failure">授权失败，无法读取相册</string>
+    <string name="grant_advice_read_album">建议授予获取相册的权限</string>
+    <string name="help">系统权限</string>
+    <string name="help_content">缺少读取系统相册的权限，请点击 "设置" - "权限" 授予应用权限</string>
+    <string name="quit">退出</string>
+    <string name="settings">设置</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <stroke
+        android:width="1dp"
+        android:color="@color/shop_background_white" />
+    
+	<gradient
+        android:endColor="@color/shop_background_white"
+        android:startColor="@color/shop_background_white"
+        android:centerColor="@color/shop_background_white"  />
+	
+    <corners
+        android:radius="2.5dp"
+	/>
+
+</shape>
