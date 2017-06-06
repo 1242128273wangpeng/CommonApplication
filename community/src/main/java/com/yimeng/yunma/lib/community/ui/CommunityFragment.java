@@ -1,28 +1,30 @@
-package com.yimeng.yunma.lib.knowledge;
+package com.yimeng.yunma.lib.community.ui;
+
 
 import android.os.Bundle;
-import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
 import com.yimeng.common.base.BaseFragment;
+import com.yimeng.yunma.lib.community.R;
+
 
 /**
  * Desc :
- * Created by WangPeng on 2017/6/6 0006.
+ * Create by WangPeng on 2017/6/6 0006
  */
+public class CommunityFragment extends BaseFragment {
 
-public class KnowledgeFragment extends BaseFragment {
 
-    public KnowledgeFragment() {
-
+    public CommunityFragment() {
     }
+
 
     @Override
     protected View getFragmentView(LayoutInflater inflater, ViewGroup container) {
-        View view = inflater.inflate(R.layout.know_fragment_mine, container, false);
+        View view = inflater.inflate(R.layout.community_fragment_community, container, false);
         return view;
     }
 
@@ -30,4 +32,5 @@ public class KnowledgeFragment extends BaseFragment {
     protected void initData() {
 
     }
+
 }

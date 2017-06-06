@@ -1,4 +1,4 @@
-package com.yimeng.yunma.newchangzhou;
+package com.yimeng.yunma.newchangzhou.common;
 
 import com.github.mzule.activityrouter.annotation.Module;
 

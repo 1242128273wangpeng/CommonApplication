@@ -1,6 +1,6 @@
 package com.github.mzule.activityrouter.router;
 
-import com.yimeng.yunma.lib.sign.Sign_MainActivity;
+import com.yimeng.yunma.lib.sign.ui.Sign_MainActivity;
 
 public final class RouterMapping_sign {
   public static final void map() {

@@ -4,7 +4,7 @@ import android.app.Application;
 
 import com.apkfuns.logutils.LogUtils;
 import com.yimeng.yunma.lib.shop.BuildConfig;
-import com.yimeng.yunma.lib.shop.ShopConstants;
+import com.yimeng.yunma.lib.shop.common.ShopConstants;
 import com.squareup.leakcanary.LeakCanary;
 import com.yimeng.common.net.AppClient;
 import com.yimeng.common.utils.ToastUtils;

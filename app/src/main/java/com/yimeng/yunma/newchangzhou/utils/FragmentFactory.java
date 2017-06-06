@@ -1,11 +1,11 @@
-package com.yimeng.yunma.newchangzhou;
+package com.yimeng.yunma.newchangzhou.utils;
 
 import com.yimeng.common.base.BaseFragment;
-import com.yimeng.yunma.lib.community.CommunityFragment;
-import com.yimeng.yunma.lib.knowledge.KnowledgeFragment;
-import com.yimeng.yunma.lib.main.MainFragment;
-import com.yimeng.yunma.lib.mine.MineFragment;
-import com.yimeng.yunma.lib.shop.ShopFragment;
+import com.yimeng.yunma.lib.community.ui.CommunityFragment;
+import com.yimeng.yunma.lib.knowledge.ui.KnowledgeFragment;
+import com.yimeng.yunma.lib.main.ui.MainFragment;
+import com.yimeng.yunma.lib.mine.ui.MineFragment;
+import com.yimeng.yunma.lib.shop.ui.ShopFragment;
 
 import java.util.HashMap;
 

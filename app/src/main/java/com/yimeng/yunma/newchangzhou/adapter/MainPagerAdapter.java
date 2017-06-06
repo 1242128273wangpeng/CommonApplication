@@ -4,7 +4,7 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 
-import com.yimeng.yunma.newchangzhou.FragmentFactory;
+import com.yimeng.yunma.newchangzhou.utils.FragmentFactory;
 
 /**
  * Desc :

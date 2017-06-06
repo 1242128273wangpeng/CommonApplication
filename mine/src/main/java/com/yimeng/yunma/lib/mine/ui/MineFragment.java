@@ -1,4 +1,4 @@
-package com.yimeng.yunma.lib.community;
+package com.yimeng.yunma.lib.mine.ui;
 
 
 import android.os.Bundle;
@@ -8,22 +8,22 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.yimeng.common.base.BaseFragment;
+import com.yimeng.yunma.lib.mine.R;
 
 
 /**
  * Desc :
  * Create by WangPeng on 2017/6/6 0006
  */
-public class CommunityFragment extends BaseFragment {
+public class MineFragment extends BaseFragment {
 
 
-    public CommunityFragment() {
+    public MineFragment() {
     }
-
 
     @Override
     protected View getFragmentView(LayoutInflater inflater, ViewGroup container) {
-        View view = inflater.inflate(R.layout.community_fragment_community, container, false);
+        View view = inflater.inflate(R.layout.mine_fragment_mine, container, false);
         return view;
     }
 

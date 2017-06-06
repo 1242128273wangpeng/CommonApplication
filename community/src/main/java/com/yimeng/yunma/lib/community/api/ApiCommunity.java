@@ -1,4 +1,6 @@
-package com.yimeng.yunma.lib.community;
+package com.yimeng.yunma.lib.community.api;
+
+import com.yimeng.yunma.lib.community.PublishBean;
 
 import java.util.Map;
 

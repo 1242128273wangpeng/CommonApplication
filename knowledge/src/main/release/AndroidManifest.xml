@@ -4,7 +4,7 @@
 
     <application
         android:supportsRtl="true">
-        <activity android:name=".KnowledgeMainActivity"/>
+        <activity android:name=".ui.KnowledgeMainActivity"/>
     </application>
 
 </manifest>

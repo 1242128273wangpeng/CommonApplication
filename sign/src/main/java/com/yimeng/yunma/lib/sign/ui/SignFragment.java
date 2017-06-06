@@ -1,4 +1,4 @@
-package com.yimeng.yunma.lib.main;
+package com.yimeng.yunma.lib.sign.ui;
 
 
 import android.os.Bundle;
@@ -8,21 +8,23 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.yimeng.common.base.BaseFragment;
+import com.yimeng.yunma.lib.sign.R;
 
 
 /**
-*  Desc :
-*  Create by WangPeng on 2017/6/6 0006
-*/
-public class MainFragment extends BaseFragment {
+ * Desc :
+ * Create by WangPeng on 2017/6/6 0006
+ */
+public class SignFragment extends BaseFragment {
 
 
-    public MainFragment() {
+    public SignFragment() {
     }
+
 
     @Override
     protected View getFragmentView(LayoutInflater inflater, ViewGroup container) {
-        View view = inflater.inflate(R.layout.main_fragment_main, container, false);
+        View view = inflater.inflate(R.layout.sign_fragment_sign, container, false);
         return view;
     }
 

@@ -1,4 +1,4 @@
-package com.yimeng.yunma.lib.main;
+package com.yimeng.yunma.lib.main.common;
 
 /**
  * Created by 2014wang on 2016/10/6   @desc

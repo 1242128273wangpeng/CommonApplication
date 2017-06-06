@@ -1,4 +1,4 @@
-package com.yimeng.yunma.newchangzhou;
+package com.yimeng.yunma.newchangzhou.app;
 
 import android.annotation.TargetApi;
 import android.app.Application;

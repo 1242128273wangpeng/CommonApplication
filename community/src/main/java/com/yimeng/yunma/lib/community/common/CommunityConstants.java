@@ -1,4 +1,4 @@
-package com.yimeng.yunma.lib.community;
+package com.yimeng.yunma.lib.community.common;
 
 /**
  * Desc :

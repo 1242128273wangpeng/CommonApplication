@@ -1,13 +1,15 @@
-package com.yimeng.yunma.lib.knowledge;
+package com.yimeng.yunma.lib.mine.ui;
 
 import android.app.Activity;
 import android.os.Bundle;
 
-public class KnowledgeMainActivity extends Activity {
+import com.yimeng.yunma.lib.mine.R;
+
+public class MainActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.know_activity_main);
+        setContentView(R.layout.mine_activity_main);
     }
 }

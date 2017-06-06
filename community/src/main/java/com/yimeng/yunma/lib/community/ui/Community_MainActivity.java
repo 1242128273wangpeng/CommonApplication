@@ -1,4 +1,4 @@
-package com.yimeng.yunma.lib.community;
+package com.yimeng.yunma.lib.community.ui;
 
 import android.content.Intent;
 import android.net.Uri;
@@ -18,6 +18,11 @@ import com.yimeng.common.richeditor.EditItem;
 import com.yimeng.common.richeditor.XCRichEditor;
 import com.yimeng.common.utils.ToastUtils;
 import com.yimeng.common.widget.CommonTitle;
+import com.yimeng.yunma.lib.community.api.ApiCommunity;
+import com.yimeng.yunma.lib.community.DialogTools;
+import com.yimeng.yunma.lib.community.PublishBean;
+import com.yimeng.yunma.lib.community.R;
+import com.yimeng.yunma.lib.community.R2;
 
 import java.io.File;
 import java.util.ArrayList;

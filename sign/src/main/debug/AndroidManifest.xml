@@ -26,8 +26,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/sign_AppTheme">
-        <activity android:name=".Sign_SecondActivity" />
-        <activity android:name=".Sign_MainActivity">
+        <activity android:name=".ui.Sign_SecondActivity" />
+        <activity android:name=".ui.Sign_MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

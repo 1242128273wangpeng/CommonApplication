@@ -27,7 +27,7 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/community_AppTheme">
-        <activity android:name=".Community_MainActivity">
+        <activity android:name=".ui.Community_MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

@@ -1,4 +1,4 @@
-package com.yimeng.yunma.lib.shop;
+package com.yimeng.yunma.lib.shop.common;
 
 /**
  * Desc :

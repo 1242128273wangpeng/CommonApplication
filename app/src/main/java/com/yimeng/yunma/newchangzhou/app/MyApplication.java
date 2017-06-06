@@ -1,4 +1,4 @@
-package com.yimeng.yunma.newchangzhou;
+package com.yimeng.yunma.newchangzhou.app;
 
 import com.apkfuns.logutils.LogUtils;
 import com.github.mzule.activityrouter.annotation.Modules;
@@ -9,6 +9,9 @@ import com.yimeng.common.downloader.FileDownloader;
 import com.yimeng.common.downloader.model.PreferencesUtils;
 import com.yimeng.common.net.AppClient;
 import com.yimeng.common.utils.ToastUtils;
+import com.yimeng.yunma.newchangzhou.BuildConfig;
+import com.yimeng.yunma.newchangzhou.SimpleTinkerApplication;
+import com.yimeng.yunma.newchangzhou.common.AppConstants;
 
 import java.io.File;
 

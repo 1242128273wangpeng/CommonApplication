@@ -1,6 +1,6 @@
 package com.yimeng.yunma.lib.main.mvp;
 
-import com.yimeng.yunma.lib.main.MainConstants;
+import com.yimeng.yunma.lib.main.common.MainConstants;
 import com.yimeng.yunma.lib.main.model.NewsData;
 import com.yimeng.common.base.BasePresenter;
 import com.yimeng.common.listener.ModelCallBack;

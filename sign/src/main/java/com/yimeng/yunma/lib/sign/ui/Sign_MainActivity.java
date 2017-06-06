@@ -1,4 +1,4 @@
-package com.yimeng.yunma.lib.sign;
+package com.yimeng.yunma.lib.sign.ui;
 
 import android.content.Intent;
 import android.graphics.Color;
@@ -8,6 +8,8 @@ import android.view.View;
 import android.widget.TextView;
 
 import com.github.mzule.activityrouter.annotation.Router;
+import com.yimeng.yunma.lib.sign.R;
+import com.yimeng.yunma.lib.sign.R2;
 import com.yimeng.yunma.lib.sign.adapter.SignCalendarAdapter;
 import com.yimeng.common.base.BaseActivity;
 import com.yimeng.common.ultraviewpager.UltraViewPager;

@@ -1,4 +1,4 @@
-package com.yimeng.yunma.lib.sign;
+package com.yimeng.yunma.lib.sign.ui;
 
 import com.yimeng.yunma.lib.sign.R;
 import com.yimeng.common.base.BaseActivity;

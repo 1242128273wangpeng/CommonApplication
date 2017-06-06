@@ -5,7 +5,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
-import com.yimeng.yunma.lib.main.MainConstants;
+import com.yimeng.yunma.lib.main.common.MainConstants;
 import com.yimeng.yunma.lib.main.R;
 import com.yimeng.yunma.lib.main.R2;
 import com.yimeng.yunma.lib.main.model.NewsData;

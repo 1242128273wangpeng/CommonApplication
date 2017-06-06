@@ -42,8 +42,8 @@
         android:theme="@style/sign_AppTheme" >
         <uses-library android:name="android.test.runner" />
 
-        <activity android:name="com.yimeng.yunma.lib.sign.Sign_MainActivity" />
-        <activity android:name="com.yimeng.yunma.lib.sign.Sign_SecondActivity" />
+        <activity android:name="com.yimeng.yunma.lib.sign.ui.Sign_MainActivity" />
+        <activity android:name="com.yimeng.yunma.lib.sign.ui.Sign_SecondActivity" />
         <activity
             android:name="com.yimeng.common.album.ui.activity.AlbumActivity"
             android:theme="@style/Base.Theme.AppCompat" />

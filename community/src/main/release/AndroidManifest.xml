@@ -21,7 +21,7 @@
     <application
         android:allowBackup="true"
         android:supportsRtl="true">
-        <activity android:name=".Community_MainActivity" />
+        <activity android:name=".ui.Community_MainActivity" />
     </application>
 
 </manifest>
